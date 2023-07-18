@@ -20,13 +20,13 @@ body {
 }
 
 a {
-  color: #777;
+  color: #571e1e;
   text-decoration: none;
   transition: 0.3s all ease;
 }
 
 a:hover {
-  color: #000;
+  color: #200000;
 }
 
 h1,
@@ -50,7 +50,7 @@ h6,
 }
 
 .text-primary {
-  color: #2d71a1 !important;
+  color: #8d04af !important;
 }
 
 .border-top {
@@ -93,7 +93,7 @@ section {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #2d71a1;
+  background: #2475af;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -130,7 +130,7 @@ section {
 
 .btn.btn-outline-white:hover {
   background: #fff;
-  color: #2d71a1;
+  color: #422fd2;
 }
 
 .btn.btn-primary {
